@@ -1,7 +1,6 @@
-count = 10 
-
-while count >= 1 do 
-  puts count
-  count -= 1
-end
-puts "Happy New Year!"
+count = 25
+while count >= 5 do 
+  puts count 
+  count -= 5 
+end 
+puts " De 5 en 5 "
