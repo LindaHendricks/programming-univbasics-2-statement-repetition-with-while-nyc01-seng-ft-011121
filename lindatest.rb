@@ -1,4 +1,4 @@
-magic_exit_number = 10 
+magic_exit_number = 15 
 count = 25
 while count >= 0 do 
   puts count
